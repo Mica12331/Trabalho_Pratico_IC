@@ -27,6 +27,7 @@ data/raw/
 # Models (large files)
 models/*.h5
 models/*.keras
+!models/baseline_best.keras
 models/*.pkl
 
 # Hugging Face cache

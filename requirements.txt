@@ -14,3 +14,4 @@ datasets
 
 # Utilities
 tqdm
+python-docx
