@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+
+# Machine Learning
+scikit-learn
+tensorflow
+
+# Dataset
+datasets
+
+# Utilities
+tqdm

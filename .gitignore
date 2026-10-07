@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data (large files)
+data/raw/
+*.parquet
+*.h5
+*.hdf5
+
+# Models (large files)
+models/*.h5
+models/*.keras
+models/*.pkl
+
+# Hugging Face cache
+.cache/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results (keep structure, ignore large outputs)
+results/predictions/*.png
+results/predictions/*.jpg
