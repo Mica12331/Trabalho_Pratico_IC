@@ -32,9 +32,11 @@ models/*.pkl
 # Hugging Face cache
 .cache/
 
-# OS
+# OS and Office Temp
 Thumbs.db
 .DS_Store
+~$*
+*.tmp
 
 # Jupyter
 .ipynb_checkpoints/
